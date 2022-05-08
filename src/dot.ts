@@ -138,8 +138,6 @@ export class Dot extends Control {
         }
 
         this.setPosition();
-
-        //if (this.x < 700 - 10 && this.y < 500 - 10) {
     };
 
     setDotStyles(params: IDotParams) {
