@@ -1,15 +1,5 @@
-# 🚀 Welcome to your new awesome project!
+# Intersection Observer API
 
-This project has been created using **webpack-cli**, you can now run
+## Some faulty but funny project using Intersection Observer API
 
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+Move dots and and duplicate them at container boundaries which are detected by Intersection Observer
